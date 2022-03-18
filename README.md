@@ -9,8 +9,8 @@
 算法更像是菜谱： 提供达成目标的明确步骤。 而模式更像是蓝图： 你可以看到最终的结果和模式的功能， 但需要自己确定实现步骤。
 
 ## 创建型模式
-- (Factory Method)[], 其在父类中提供一个创建对象的方法， 允许子类决定实例化对象的类型
-- (Abstract Factory)[], 它能创建一系列相关的对象， 而无需指定其具体类
+- (Factory Method)[https://github.com/jujimeizuo/design-patterns-cpp/tree/master/abstract-factory], 其在父类中提供一个创建对象的方法， 允许子类决定实例化对象的类型
+- (Abstract Factory)[https://github.com/jujimeizuo/design-patterns-cpp/tree/master/factory-method], 它能创建一系列相关的对象， 而无需指定其具体类
 - (Builder)
 - (Prototype)
 - (Singleton)
