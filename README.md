@@ -10,10 +10,11 @@
 
 ## 创建型模式
 - [Factory Method](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/abstract-factory), 其在父类中提供一个创建对象的方法， 允许子类决定实例化对象的类型
-- [Abstract Factory](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/factory-method), 它能创建一系列相关的对象， 而无需指定其具体类
-- (Builder)
-- (Prototype)
-- (Singleton)
+- [Abstract Factory](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/factory-method), 它能创建一系列相关的z
+对象， 而无需指定其具体类
+- [Builder](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/builder)
+- [Prototype]
+- [Singleton]
 
 ## 结构型模式
 
