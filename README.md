@@ -14,7 +14,7 @@
 对象， 而无需指定其具体类
 - [Builder](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/builder), 使你能够分步骤创建复杂对象。该模式允许你使用相同的创建代码生成不同类型和形式的对象。
 - [Prototype](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/prototype), 使你能够复制已有对象， 而又无需使代码依赖它们所属的类。
-- [Singleton]
+- [Singleton](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/singleton), 让你能够保证一个类只有一个实例， 并提供一个访问该实例的全局节点。
 
 ## 结构型模式
 
