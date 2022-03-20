@@ -17,5 +17,6 @@
 - [Singleton](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/singleton), 让你能够保证一个类只有一个实例， 并提供一个访问该实例的全局节点。
 
 ## 结构型模式
+- [Adapter](https://github.com/jujimeizuo/design-patterns-cpp/tree/master/adapter), 它能使接口不兼容的对象能够相互合作。 
 
 ## 行为模式
